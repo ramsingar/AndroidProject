@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="enter_city">Enter City</string>
+    <string name="search">Search</string>
+    <string name="temperature">Temperature</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="city">City:</string>
+    <string name="toggle_unit">Toggle Unit</string>
+    <string name="weather">Weather</string>
+    <string name="celsius_fahrenheit">Celsius/Fahrenheit</string>
+</resources>
